@@ -1,7 +1,7 @@
 # Voting System
 
 This project was Desiging voting system for organization polling,
-It has for major modules candidate,Votter, Admin,Postion.
+It has for major modules candidate,Voter, Admin,Postion.
 Votters can able to there favioute candidate based on there location.
 
 ## Voting System design
